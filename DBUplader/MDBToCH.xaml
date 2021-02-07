@@ -1,0 +1,39 @@
+﻿<Controls:MetroWindow x:Class="DBUplader.MDBToCH"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DBUplader"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        ShowTitleBar="False"
+        ShowMaxRestoreButton="False" 
+        ShowMinButton="False"
+        GlowBrush="{DynamicResource AccentColorBrush}"
+        Title="CHToMDB" Height="400" Width="600">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="Export data from MongoDB to ClickHouse" Grid.ColumnSpan="3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label Content="Choose table :" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5,5,5,5"/>
+        <ComboBox Name="MDBTablesComboBox" SelectionChanged="MDBTablesComboBox_SelectionChanged" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Height="30" Margin="5,5,5,5"/>
+        <Button Name="MigrateMDBToCH"  Content="Migrate" Click="MigrateMDBToCH_Click" Grid.Row="2" Margin="5,5,5,5"/>
+        <Label Content="Results :" HorizontalAlignment="Right" Grid.Column="0" Grid.Row="4" Margin="5,0,5,0"/>
+        <Label Name="Timer" Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2" Margin="5,0,5,0"/>
+        <Label Name="NumberOfRecords" Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="2" Margin="5,0,5,0"/>
+
+    </Grid>
+    </Controls:MetroWindow>

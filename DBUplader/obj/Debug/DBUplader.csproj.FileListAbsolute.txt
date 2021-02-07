@@ -1,0 +1,133 @@
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\bin\Debug\DBUplader.exe.config
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\bin\Debug\DBUplader.exe
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\bin\Debug\DBUplader.pdb
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\DBUplader.csprojResolveAssemblyReference.cache
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MainWindow.g.cs
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\App.g.cs
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\DBUplader_MarkupCompile.cache
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\DBUplader_MarkupCompile.lref
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MainWindow.baml
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\DBUplader.g.resources
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\DBUplader.Properties.Resources.resources
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\DBUplader.csproj.GenerateResource.Cache
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\DBUplader.exe
+c:\users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\DBUplader.pdb
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\Crc32C.NET.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\DnsClient.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\MongoDB.Bson.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\MongoDB.Driver.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\SharpCompress.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\Snappy.NET.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.Buffers.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\Crc32C.NET.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\DnsClient.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\MongoDB.Bson.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\MongoDB.Driver.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\Snappy.NET.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.Buffers.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\BsonToMongoDB.g.cs
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\BsonToMongoDB.baml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\ControlzEx.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\MahApps.Metro.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\ControlzEx.pdb
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\MahApps.Metro.pdb
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\MahApps.Metro.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\App.baml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CSVToClickHouse.g.cs
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CSVToClickHouse.baml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\ClickHouse.Ado.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\LZ4.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\ClickHouse.Ado.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\CsvHelper.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.ValueTuple.dll
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\CsvHelper.xml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.ValueTuple.xml
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CHToMDB.g.cs
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CHToMDB.baml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\DBUplader.exe.config
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\DBUplader.exe
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\DBUplader.pdb
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\ClickHouse.Ado.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\ControlzEx.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\Crc32C.NET.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\CsvHelper.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\DnsClient.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\LZ4.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\MahApps.Metro.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\MongoDB.Bson.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\MongoDB.Driver.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\SharpCompress.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\Snappy.NET.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.Buffers.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.ValueTuple.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\ClickHouse.Ado.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\ControlzEx.pdb
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\Crc32C.NET.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\CsvHelper.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\DnsClient.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\MahApps.Metro.pdb
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\MahApps.Metro.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\MongoDB.Bson.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\MongoDB.Driver.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\Snappy.NET.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.Buffers.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.ValueTuple.xml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\DBUplader.csprojAssemblyReference.cache
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\BsonToMongoDB.g.cs
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\CHToMDB.g.cs
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\CSVToClickHouse.g.cs
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\CSVtoJSON.g.cs
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\MainWindow.g.cs
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\App.g.cs
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\DBUplader_MarkupCompile.cache
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\DBUplader_MarkupCompile.lref
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\App.baml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\BsonToMongoDB.baml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\CHToMDB.baml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\CSVToClickHouse.baml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\CSVtoJSON.baml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\MainWindow.baml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\DBUplader.g.resources
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\DBUplader.Properties.Resources.resources
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\DBUplader.csproj.GenerateResource.cache
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\DBUplader.csproj.CopyComplete
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\DBUplader.exe
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\DBUplader.pdb
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\MDBToCH.g.cs
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\obj\Debug\MDBToCH.baml
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.CodeDom.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ksygrek\source\repos\DBUplader\DBUplader\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.CodeDom.dll
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MDBToCH.g.cs
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MDBToCH.baml
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\Logs.g.cs
+C:\Users\ksygrek\documents\visual studio 2015\Projects\DBUplader\DBUplader\obj\Debug\Logs.baml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CHSelectTest.g.cs
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MDBSelectTest.g.cs
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CHSelectTest.baml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MDBSelectTest.baml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CHPreview.g.cs
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MDBPreview.g.cs
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CHPreview.baml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MDBPreview.baml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CHCommander.g.cs
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MDBCommander.g.cs
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\CHCommander.baml
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\MDBCommander.baml

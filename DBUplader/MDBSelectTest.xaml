@@ -1,0 +1,46 @@
+﻿<Controls:MetroWindow x:Class="DBUplader.MDBSelectTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DBUplader"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        ShowTitleBar="False"
+        ShowMaxRestoreButton="False" 
+        ShowMinButton="False"
+        GlowBrush="{DynamicResource AccentColorBrush}"
+        Title="MDBSelectTest" Height="400" Width="600">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="MongoDB select test" Grid.ColumnSpan="3" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Label Content="Choose table :" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5,5,5,5"/>
+        <ComboBox Name="MDBTablesComboBox" SelectionChanged="MDBTablesComboBox_SelectionChanged" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Height="30" Margin="5,5,5,5"/>
+        <Button Name="SelectMDB"  Content="Select" Click="SelectMDB_Click" Grid.Row="2" Margin="5,5,5,5"/>
+        <Label Content="Results :" HorizontalAlignment="Right" Grid.Column="0" Grid.Row="3" Margin="5,0,5,0"/>
+        <Label Content="Select" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2" Margin="5,0,5,0"/>
+        <Label Name="Timer1" Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="2" Margin="5,0,5,0"/>
+        <Label Content="Select" Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="2" Margin="5,0,5,0"/>
+        <Label Name="Timer2" Grid.Column="1" Grid.Row="6" Grid.ColumnSpan="2" Margin="5,0,5,0"/>
+        <Label Content="Select" Grid.Column="1" Grid.Row="7" Grid.ColumnSpan="2" Margin="5,0,5,0"/>
+        <Label Name="Timer3" Grid.Column="1" Grid.Row="8" Grid.ColumnSpan="2" Margin="5,0,5,0"/>
+
+    </Grid>
+    </Controls:MetroWindow>

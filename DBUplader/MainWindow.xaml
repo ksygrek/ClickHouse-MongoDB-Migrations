@@ -1,0 +1,91 @@
+﻿<Controls:MetroWindow x:Class="DBUplader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DBUplader"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        ShowTitleBar="False"
+        ShowMaxRestoreButton="False" 
+        ShowMinButton="False"
+        GlowBrush="{DynamicResource AccentColorBrush}"
+        Title="IPS" Height="400" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Name="BsonToMDB" Click="BsonToMDB_Click" Grid.Row="2" Grid.Column="1" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="CSV TO MONGODB"/>
+            </Button.Content>
+        </Button>
+        <Button Name="CSVToCH" Click="CSVToCH_Click" Grid.Row="2" Grid.Column="0" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="CSV TO CLICKHOUSE"/>
+            </Button.Content>
+        </Button>
+        <Label Content="ClickHouse MongoDB data import and migrations" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Label Content="Import CSV data to DB" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"/>
+        <Label Content="Migrate data" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"/>
+        <Button Name="CHToMDB" Click="CHToMDB_Click" Grid.Column="1" Grid.Row="4" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="CLICKHOUSE TO MONGODB"/>
+            </Button.Content>
+        </Button> 
+        <Button Name="MDBToCH" Click="MDBToCH_Click"  Grid.Column="0" Grid.Row="4" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="MONGODB TO CLICKHOUSE"/>
+            </Button.Content>
+        </Button>
+        <Button Name="Logs" Click="Logs_Click"  Grid.Column="3" Grid.Row="0" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="LOGS"/>
+            </Button.Content>
+        </Button>
+        <Button Name="CHSelectTest" Click="CHSelectTest_Click"  Grid.Column="0" Grid.Row="6" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="CLICKHOUSE SELECT TEST"/>
+            </Button.Content>
+        </Button>
+        <Button Name="MDBSelectTest" Click="MDBSelectTest_Click"  Grid.Column="1" Grid.Row="6" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="MONGODB SELECT TEST"/>
+            </Button.Content>
+        </Button>
+        <Button Name="CHPreview" Click="CHPreview_Click"  Grid.Column="3" Grid.Row="2" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="CLICKHOUSE PREVIEW"/>
+            </Button.Content>
+        </Button>
+        <Button Name="MDBPreview" Click="MDBPreview_Click"  Grid.Column="3" Grid.Row="4" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="MONGODB PREVIEW"/>
+            </Button.Content>
+        </Button>
+        <Button Name="CHCommander" Click="CHCommander_Click" Grid.Column="3" Grid.Row="4" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="CLICKHOUSE COMMANDER"/>
+            </Button.Content>
+        </Button>
+        <Button Name="MDBCommander" Click="MDBCommander_Click"  Grid.Column="3" Grid.Row="6" Margin="5,5,5,5">
+            <Button.Content>
+                <TextBlock TextWrapping="Wrap" Text="MONGODB COMMANDER"/>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Controls:MetroWindow>

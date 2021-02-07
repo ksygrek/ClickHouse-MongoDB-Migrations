@@ -1,0 +1,20 @@
+﻿DBUplader
+
+
+winexe
+C#
+.cs
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\obj\Debug\
+DBUplader
+none
+false
+DEBUG;TRACE
+C:\Users\ksygrek\Documents\Visual Studio 2015\Projects\DBUplader\DBUplader\App.xaml
+121431985795
+
+21753016183
+92-1797399938
+BsonToMongoDB.xaml;CHCommander.xaml;CHPreview.xaml;CHSelectTest.xaml;CHToMDB.xaml;CSVToClickHouse.xaml;Logs.xaml;MainWindow.xaml;MDBCommander.xaml;MDBPreview.xaml;MDBSelectTest.xaml;MDBToCH.xaml;
+
+True
+
